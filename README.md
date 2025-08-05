@@ -25,4 +25,9 @@ Run the script:
 python linear_regression.py
 
 
+## 📷 Example output
+
+![Graph](graph.png)
+
+
 
